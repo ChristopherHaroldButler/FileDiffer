@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="20fa04de-c067-4534-9ce9-9025165d90c1" Version="1.0" Language="en-US" Publisher="Christopher Butler" />
+    <Identity Id="20fa04de-c067-4534-9ce9-9025165d90c1" Version="1.1" Language="en-US" Publisher="Christopher Butler" />
     <DisplayName>File Differ</DisplayName>
     <Description xml:space="preserve">The easiest way to diff two files directly from Solution Explorer </Description>
     <License>Resources\LICENSE</License>
