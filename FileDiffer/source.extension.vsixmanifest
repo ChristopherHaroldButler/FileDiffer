@@ -4,7 +4,9 @@
     <Identity Id="20fa04de-c067-4534-9ce9-9025165d90c1" Version="1.1" Language="en-US" Publisher="Christopher Butler" />
     <DisplayName>File Differ</DisplayName>
     <Description xml:space="preserve">The easiest way to diff two files directly from Solution Explorer </Description>
+    <MoreInfo>https://github.com/ChristopherHaroldButler/FileDiffer.git</MoreInfo>
     <License>Resources\LICENSE</License>
+    <ReleaseNotes>https://github.com/ChristopherHaroldButler/FileDiffer/blob/master/CHANGELOG.md</ReleaseNotes>
     <Icon>Resources\Icon.png</Icon>
     <PreviewImage>Resources\Preview.png</PreviewImage>
     <Tags>compare, diff, files</Tags>

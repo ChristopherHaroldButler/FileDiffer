@@ -36,11 +36,11 @@ namespace FileDiffer
     /// </para>
     /// </remarks>
     [PackageRegistration(UseManagedResourcesOnly = true)]
-    [InstalledProductRegistration("#110", "#112", "1.0", IconResourceID = 400)] // Info on this package for Help/About
+    [InstalledProductRegistration("#110", "#112", Vsix.Version, IconResourceID = 400)] // Info on this package for Help/About
     [ProvideMenuResource("Menus.ctmenu", 1)]
-    [Guid(DiffFilesCommandPackage.PackageGuidString)]
-    [SuppressMessage("StyleCop.CSharp.DocumentationRules", "SA1650:ElementDocumentationMustBeSpelledCorrectly", Justification = "pkgdef, VS and vsixmanifest are valid VS terms")]
-    public sealed class DiffFilesCommandPackage : Package
+    [Guid(PackageGuids.guidDiffFilesCommandPackageString)]
+    
+    public sealed class VSPackage : Package
     {
         /// <summary>
         /// DiffFilesCommandPackage GUID string.
@@ -50,7 +50,7 @@ namespace FileDiffer
         /// <summary>
         /// Initializes a new instance of the <see cref="DiffFilesCommand"/> class.
         /// </summary>
-        public DiffFilesCommandPackage()
+        public VSPackage()
         {
             // Inside this method you can place any initialization code that does not require
             // any Visual Studio service because at this point the package object is created but

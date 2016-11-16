@@ -4,7 +4,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/4vga487ma5rjfxct?svg=true)](https://ci.appveyor.com/project/ChristopherHaroldButler/filediffer)
 
 <!-- Update the VS Gallery link after you upload the VSIX-->
-Download this extension from the [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/[GuidFromGallery])
+Download this extension from the [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/6238759e-81be-4d60-853f-a2486a1e66f7?redir=0)
 or get the [CI build](http://vsixgallery.com/extension/20fa04de-c067-4534-9ce9-9025165d90c1/).
 
 ---------------------------------------
